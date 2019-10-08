@@ -15,3 +15,7 @@ And
 This repository illustrates the issue with `react-native-image-picker`.
 
 Description: The issue is that **Permission** to ask Media Library is asked after accessing contents of it.
+
+This is the illustration:
+
+![](./image-picker-issue.gif)
